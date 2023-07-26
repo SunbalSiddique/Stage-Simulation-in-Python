@@ -1,8 +1,5 @@
 # Stage-Simulation-in-Python
-The project establishes a visual manifestation of a performance stage for the rock star band known as "Spinal Tap." We use Python and its libraries, such as NumPy and Matplotlib, to yield an interactive plot that demonstrates the stage arrangement, lighting effects, smoke machines, and the band’s props.
-
-# Performance Stage for "Spinal Tap"
-This program simulates a performance stage for the band "Spinal Tap" using matplotlib. It visualizes a stage with lights, a smoke machine, and a band.
+The repository represents a project that establishes a visual manifestation of a performance stage for the rock star band, "Spinal Tap." We use Python and its libraries, such as NumPy and Matplotlib, to yield an interactive plot that demonstrates the stage arrangement, lighting effects, smoke machines, and the band’s props.
 
 ## Dependencies
 - Python 3
